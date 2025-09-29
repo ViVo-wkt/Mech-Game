@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Coin
+  - Collector
+  - Task1
+  - Task2
+  - Task3
+  - Task4
+  - Task5
+  - Task6
+  - Task7
+  - Task8
+  - Task5.2
+  - FadeAway
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Resources
+  - Water
+  - UI
+  - Core
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
